@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 
 <h3 align="left">⚡ GitHub Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=andersond-art&show_icons=true&theme=monokai&locale=en" alt="andersond-art" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=andersond-art&show_icons=true&theme=monokai&locale=en" alt="andersond-art" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andersond-art&show_icons=true&theme=monokai&locale=en&layout=compact" alt="andersond-art" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andersond-art&show_icons=true&theme=monokai&locale=en&layout=compact" alt="andersond-art" /></p>
