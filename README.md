@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Anderson David</h1>
-<h3 align="center">A Mobile developer in love with Flutter. Brazil</h3>
+<h2 align="center">Hi 👋, I'm Anderson David</h2>
+<h3 align="center">👨‍💻 A Mobile developer in love with Flutter. Brazil ☕</h3>
 
 - 🔭 I’m currently working on **Mobile apps**
 
